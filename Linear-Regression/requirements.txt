@@ -1,0 +1,7 @@
+# Linear Regression Requirements
+# Python 3.12.x
+numpy==2.5.3
+pandas==2.3.3
+scikit-learn==1.6.1
+matplotlib==3.10.6
+seaborn==0.13.2
